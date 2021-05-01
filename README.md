@@ -8,8 +8,8 @@
   <img align="center" alt="Hideki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hideki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-<br/>
-<div style="flex-direction: column; align-items: left">
+<br>
+<div>
   <a href="https://github.com/Alexandrehideki13">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexandrehideki13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrehideki13&layout=compact&langs_count=8&theme=dracula"/>
