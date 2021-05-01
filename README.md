@@ -9,13 +9,16 @@
   <img align="center" alt="Hideki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br>
-<div style:"display: flex; flex-direction: column">
-  <a href="https://github.com/Alexandrehideki13">
-  <div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexandrehideki13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
-  <div><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrehideki13&layout=compact&langs_count=8&theme=dracula"/></div>
+<div>
+  <img src="https://github.com/Alexandrehideki13/Alexandrehideki13/blob/main/octocat.png" alt="Meu OctoCat" align="right" height="450"/>
+  <div style:"display: flex; flex-direction: column">
+    <a href="https://github.com/Alexandrehideki13">
+    <div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexandrehideki13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+    <div><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrehideki13&layout=compact&langs_count=8&theme=dracula"/></div>
+  </div>
 </div>
 
-<img src="https://github.com/Alexandrehideki13/Alexandrehideki13/blob/main/octocat.png" alt="Meu OctoCat" align="right" height="450"/>
+
 
 <div>
   <a href = "mailto: alexandrejilek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
