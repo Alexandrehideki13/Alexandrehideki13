@@ -11,8 +11,8 @@
 <br>
 <div style:"display: flex; flex-direction: column">
   <a href="https://github.com/Alexandrehideki13">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexandrehideki13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrehideki13&layout=compact&langs_count=8&theme=dracula"/>
+  <div><img height="160em" src="https://github-readme-stats.vercel.app/api?username=Alexandrehideki13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+  <div><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrehideki13&layout=compact&langs_count=8&theme=dracula"/></div>
 </div>
   
 <div>
