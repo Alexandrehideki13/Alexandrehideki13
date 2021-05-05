@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, I'm Alexandre Hideki :man_technologist:</h1>
 
 <div>
-  <img src="https://github.com/Alexandrehideki13/Alexandrehideki13/blob/main/octocat.png" alt="Meu OctoCat" align="right" height="450" background-repeat="no-repeat" style="max-width:100%;padding-left: 0px;width: 415px;"/>
+  <img src="https://github.com/Alexandrehideki13/Alexandrehideki13/blob/main/octocat.png" alt="Meu OctoCat" align="right" height="450"  width: "415px"/>
   <div style="display: inline_block">
     <h3>Learning:</h3>
     <img align="center" alt="Hideki-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
