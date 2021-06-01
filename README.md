@@ -19,6 +19,10 @@
     </div>
   </div>
   <div>
+    <h3>Statistics:</h3>
+    
+![Snake animation](https://github.com/Alexandrehideki13/Alexandrehideki13/blob/output/github-contribution-grid-snake.svg)
+    </div>
     <h3>Social Media:</h3>
     <a href = "mailto: alexandrejilek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
     <a href="https://www.linkedin.com/in/alexandre-hideki-yazawa-jilek/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
