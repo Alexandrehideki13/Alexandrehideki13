@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, I'm Alexandre Hideki :man_technologist:</h1>
+<h1 align="center">Hello, I'm Alexandre Hideki :man_technologist:</h1>
 
 <div>
   <img src="https://github.com/Alexandrehideki13/Alexandrehideki13/blob/main/octocat.png" alt="Meu OctoCat" align="right" height="395px"  width: "415px" style="padding:0;"/>
